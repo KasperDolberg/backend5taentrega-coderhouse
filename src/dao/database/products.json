@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "fd",
+    "description": "fd",
+    "price": "1",
+    "category": "fd",
+    "status": true,
+    "thumbnail": "df",
+    "code": "df",
+    "stock": "1"
+  },
+  {
+    "id": 2,
+    "title": "fd",
+    "description": "fd",
+    "price": "-2",
+    "category": "ds",
+    "status": true,
+    "thumbnail": "fdfd",
+    "code": "dfdfd",
+    "stock": "2"
+  }
+]
